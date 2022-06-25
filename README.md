@@ -9,9 +9,9 @@ I'm a senior full-stack javascript developer with 8 years' background in softwar
 ```
 ✔️ Javascript | Typescript | PHP | HTML | CSS | Bootstrap
 ✔️ React | Redux | Redux toolkit
-✔️ Hooks, Styled components | Ant-Design | Material UI
-✔️ Node.js, Express
-✔️ Microservices, Cloud Services (Amazon, Google, Azure)
+✔️ Hooks | Styled components(Ant-Design, Material UI)
+✔️ Node.js | Express
+✔️ Microservices | Cloud Services(Amazon, Google, Azure)
 ✔️ API integration | REST APIs
 ✔️ Testing : TDD/BDD, karma, jasmine, mocha + experience with PhantomJS/Selenium engines
 ✔️ SQL | MySQL | SQLite | PostgreSQL | MongoDB
