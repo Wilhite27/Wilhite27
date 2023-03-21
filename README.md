@@ -9,7 +9,6 @@ I'm a senior full-stack javascript developer with 10 years' background in softwa
 ```
 ✔️ Javascript | Typescript | PHP | HTML | CSS | Bootstrap
 ✔️ React | Redux | Redux toolkit
-✔️ Angular 2+
 ✔️ React Native
 ✔️ Hooks | Styled components(Ant-Design, Material UI)
 ✔️ Node.js | Express
