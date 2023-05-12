@@ -1,9 +1,9 @@
 # About Me
 
-I'm a senior full-stack javascript developer with 10 years' background in software development specializing in Javascript, TypeScript, React(Next.js), Angular, React Native, and Node.js with Express. I'm also good at PHP and Laravel.
+I'm a senior full-stack JavaScript developer with roughly 10 years' background in software development, specializing in JavaScript, TypeScript, React (Next.js), and Node.js with NestJS and Express. I'm also good at PHP and Laravel.
 ```
 ⭐️ Over 70 successful projects done.
-⭐️ Over 10 years of experience in Web and Mobile App development.
+⭐️ Roughly 10 years of experience in Web and Mobile App development.
 ```
 
 ```
