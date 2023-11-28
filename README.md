@@ -1,23 +1,25 @@
 # About Me
 
-I'm a senior full-stack JavaScript developer with roughly 10 years' background in software development, specializing in JavaScript, TypeScript, React (Next.js), and Node.js with NestJS and Express. I'm also good at PHP and Laravel.
+I'm not just a developer, I'm a storyteller with code…
+Over the past 10 years, I've sculpted my craft in the realms of JavaScript, TypeScript, React.js, React Native, and Node.js, bringing ideas to life and crafting seamless user experiences.
+
 ```
 ⭐️ Over 70 successful projects done.
 ⭐️ Roughly 10 years of experience in Web and Mobile App development.
 ```
 
 ```
-✔️ Javascript | Typescript | PHP | HTML | CSS | Bootstrap
-✔️ React | Redux | Redux toolkit
-✔️ React Native
-✔️ Hooks | Styled components(Ant-Design, Material UI)
-✔️ Node.js | Express
-✔️ Laravel Framework
-✔️ Microservices | Cloud Services(Amazon, Google, Azure)
-✔️ API integration | REST APIs
-✔️ Testing : TDD/BDD, karma, jasmine, mocha + experience with PhantomJS/Selenium engines
-✔️ SQL | MySQL | SQLite | PostgreSQL | MongoDB
-✔️ VCS: SVN, GIT
+⚡ JavaScript, TypeScript, PHP, HTML5, CSS3
+⚡ React.js, Next.js, Redux, Mobx, React Hooks
+⚡ React Native, Expo, React Native Navigation
+⚡ Node.js, Express.js, NestJS
+⚡ Material UI, Ant Design, React Bootstrap
+⚡ Axios, Fetch API, GraphQL, Apollo Client
+⚡ Animation (React Spring, Framer Motion, React Native Animated API, Lottie)
+⚡ React Testing Library, Jest, Detox
+⚡ Core Data, EventKit, Core Bluetooth, MapKit, HealthKit, StoreKit, ARKit, PushKit
+⚡ MySQL, PostgreSQL, MongoDB, Firebase, Cloud Firestore, Firebase Realtime Database
+⚡ App Center, Firebase Distribution, TestFlight
 ```
 
 
